@@ -4,7 +4,7 @@
 
 Starting the node and connecting it to the network requires 3 important files: 
 
-* topology,json
+* topology.json
 * genesis.json
 * config.json
 
